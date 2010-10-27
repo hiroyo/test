@@ -1,2 +1,8 @@
 hello world
 2010/10/27
+
+add lines
+line 5
+line 6
+line 7
+
